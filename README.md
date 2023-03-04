@@ -24,8 +24,7 @@ This is a challenge from [Frontend Mentor](https://www.frontendmentor.io/challen
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [This is my solution](https://itsale-o.github.io/qr-code-frontend-mentor/)
 
 ## My process
 
