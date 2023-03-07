@@ -20,7 +20,15 @@ This is a challenge from [Frontend Mentor](https://www.frontendmentor.io/challen
 
 ### Screenshot
 
-![This is a screenshot of my solution](/qr_code_solution_desktop.png)
+#### These are two screenshots of my solution.
+
+##### This is how desktop version looks like
+
+![This is how desktop version looks like](/qr_code_solution_desktop.png)
+
+##### This is how mobile version looks like
+
+![This is how mobile version looks like](/qr_code_solution.png)
 
 ### Links
 
