@@ -32,7 +32,7 @@ This is a challenge from [Frontend Mentor](https://www.frontendmentor.io/challen
 
 ### Links
 
-- Solution URL: [This is my solution](https://itsale-o.github.io/qr-code-frontend-mentor/)
+- Solution URL: [This is my solution](https://itsale-o.github.io/qr-code-component/)
 
 ## My process
 
